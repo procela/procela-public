@@ -6,8 +6,6 @@ It includes HTML, CSS, and JavaScript files required for the homepage, branding,
 
 The site is deployed via **Cloudflare Pages** and automatically updates whenever changes are pushed to this repository.
 
----
-
 ## Deployment
 The site is hosted on Cloudflare Pages:
 
@@ -20,16 +18,10 @@ To update the website:
 2. Commit and push changes to the main branch.
 3. Cloudflare Pages will automatically build and deploy the updated site.
 
----
-
 ## Contact Form Integration
 The landing page contact form sends submissions to the general inquiries email:
 
 - `hello@procela.com`
-
-Ensure that email settings in Google Workspace are active to receive submissions.
-
----
 
 ## Repository Structure
 
@@ -41,8 +33,6 @@ procela-public/
 ├─ assets/ # Images, logos, icons, and other media
 └─ README.md # Project documentation
 
----
-
 ## Contributing
 For updates or edits:
 
@@ -51,8 +41,6 @@ For updates or edits:
 3. Submit a pull request for review
 
 Internal team members can push directly to the repository if they have write access.
-
----
 
 ## Notes
 - Keep sensitive data (like API keys) out of the repository.
